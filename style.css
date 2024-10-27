@@ -1,0 +1,96 @@
+@import url('https://fonts.cdnfonts.com/css/rubber-duck');
+
+body{
+
+
+
+    display: flex;
+    margin: 0;
+
+
+
+}
+
+.left, .right{
+
+    flex: 1;
+}
+
+
+h1{
+
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Rubber-Duck', sans-serif;
+                                                
+
+}
+
+
+.right{
+
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.left{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+input{
+
+    height: 100px;
+    width: 400;
+    border: 2px solid;
+    margin: 10px;
+    
+}
+
+
+
+.css-button-fully-rounded--grey {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 20px;
+    border: 2px solid #495057;
+    background: #495057;
+  }
+  .css-button-fully-rounded--grey:hover {
+    background: #fff;
+    color: #495057
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
